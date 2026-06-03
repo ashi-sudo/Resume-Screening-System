@@ -1,0 +1,22 @@
+﻿python
+machine learning
+nlp
+sql
+tensorflow
+pytorch
+data analysis
+communication
+javascript
+html
+css
+deep learning
+artificial intelligence
+natural language processing
+computer vision
+deep learning
+computer vision
+data science
+cloud computing
+aws
+azure
+devops

@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Project specific
+output/*.csv
+*.docx
+*.pdf
+!sample_resume.docx
+
+# NLTK data
+nltk_data/
+nltk_data_custom/
+
+# OS files
+.DS_Store
+Thumbs.db
